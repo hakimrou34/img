@@ -4,7 +4,7 @@
     "dataSource" : {
       "kind" : "addonCatalog",
       "payload" : {
-        "addonId" : "https:\/\/aiometadatafortheweebs.midnightignite.me\/stremio\/040df51d-eb27-44e0-91fd-eff94cd45149\/manifest.json",
+        "addonId" : "app.xperience.69b4d970-8486-4961-895d-4e36abd74553",
         "catalogId" : "series::mdblist.86751",
         "catalogType" : "series"
       }
